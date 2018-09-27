@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "justin zayas, weekly reflection,
+title: "justin zayas, weekly reflection
 date: 2018-09-28
 ---
 
