@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "my screenshot with weekly reflection"
 date: 2018-11-20
 ---
