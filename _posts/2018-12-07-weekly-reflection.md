@@ -1,7 +1,7 @@
 ---
-layout:post
-title:"weekly reflection"
-data:2018-12-07
+layout: post
+title: "weekly reflection"
+date: 2018-12-07
 ---
 
 # part 1 - my flag.
