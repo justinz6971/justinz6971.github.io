@@ -1,7 +1,8 @@
 ---
 layout: post
 title: " weekly reflection"
-date: 2018-11-2
+date: 2018-11-02
+---
 
 today is a weekly reflection day where we recap on this week and what the big idea of what we learned.
 
