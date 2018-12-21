@@ -8,8 +8,8 @@ date: 2018-12-21
 
 ## Describe your program
 
--  i desgin this for norway.
-- i excepted a practiconer because of how this is the practitoner level.
+-  I desgin this for norway.
+- I excepted a practiconer because of how this is the practitoner level.
 
 
 ## Current output
@@ -21,7 +21,7 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   the process took me aleast two weeks to do and had help from julian and mr allatta and question i had questions like how do i create rectangles and how does this make the shape of the flag. 
+-   The process took me aleast two weeks to do and had help from julian and mr allatta and question i had questions like how do i create rectangles and how does this make the shape of the flag. 
 
 
 ## Explain your code.
@@ -35,7 +35,7 @@ date: 2018-12-21
   (rectangle 300 30 "solid" "blue") 
            150 100 
            (rectangle 300 200 "outline" "black"))_
--  this shows the first part  of the flag that is shown to be a differentthis process show that its a bunch of overlay and put image. this functions independently by running as it own program and they work in milliseconds and that with code like put-image and overlay which can connect to the image or flag that you are trying to make in any code that different.
+-  This shows the first part  of the flag that is shown to be a differentthis process show that its a bunch of overlay and put image. this functions independently by running as it own program and they work in milliseconds and that with code like put-image and overlay which can connect to the image or flag that you are trying to make in any code that different than wescheme.
 -   
 
 * * *
@@ -60,8 +60,8 @@ date: 2018-12-21
 
 * * *
 
--  each argument shows how they can make rectangles and colors too show how this can ake at least 3/4 of the norway flag.
--  this shows how this could fit onto the page by scaling the image or changing the size of the rectangles and changing the colors.
+-  Each argument shows how they can make rectangles and colors too show how this can ake at least 3/4 of the norway flag.
+-  This shows how this could fit onto the page by scaling the image or changing the size of the rectangles and changing the colors.
  
 
 
